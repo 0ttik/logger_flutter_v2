@@ -1,4 +1,4 @@
-# 1.0.0
+## 1.0.0
 
 - Stable release
 - Updated docs
