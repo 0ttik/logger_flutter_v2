@@ -4,11 +4,14 @@
 
 The project is a fork for old and not maintained package [logger_flutter](https://pub.dev/packages/logger_flutter).
 
+It got minor rework for better usability and is dart-only now.
+
 Please, consult with main package documentation for further info. 
 
 ## Features
 
 * Provides logger console for the application with basic logs sorting and stuff.
+* No dependencies beside Logger and available on all platforms (if needed you can implement open-on-shake yourself).
 
 ## Getting started
 
