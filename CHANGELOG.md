@@ -1,3 +1,7 @@
+## 1.0.1
+
+- Fix CHANGELOG.md
+
 ## 1.0.0
 
 - Stable release
