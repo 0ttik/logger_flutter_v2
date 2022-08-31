@@ -1,3 +1,7 @@
+## 1.0.3
+
+- Fix AnsiParser#getColor bug
+
 ## 1.0.2
 
 - Fix null-safety migration bug
