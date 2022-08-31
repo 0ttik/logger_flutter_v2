@@ -1,3 +1,7 @@
+## 1.0.2
+
+- Fix null-safety migration bug
+
 ## 1.0.1
 
 - Fix CHANGELOG.md
