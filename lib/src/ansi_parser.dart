@@ -99,7 +99,7 @@ class AnsiParser {
     }
   }
 
-  Color getColor(int colorCode, bool foreground) {
+  Color? getColor(int colorCode, bool foreground) {
     switch (colorCode) {
       case 0:
         return foreground ? Colors.black : Colors.transparent;
@@ -112,7 +112,7 @@ class AnsiParser {
       case 199:
         return dark ? Colors.pink[300]! : Colors.pink[700]!;
       default:
-        throw StateError('Unknown color code');
+        return null;
     }
   }
 
