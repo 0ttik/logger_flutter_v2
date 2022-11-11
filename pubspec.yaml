@@ -8,7 +8,7 @@ homepage: https://github.com/0ttik/logger_flutter_v2
 #   - ewertonrp
 
 environment:
-  sdk: ">=2.17.6 <3.0.0"
+  sdk: ">=2.17.0 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
