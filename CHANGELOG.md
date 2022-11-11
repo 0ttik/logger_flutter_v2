@@ -1,3 +1,7 @@
+## 1.0.4
+
+- Decrease flutter min sdk version constraint
+
 ## 1.0.3
 
 - Fix AnsiParser#getColor bug
