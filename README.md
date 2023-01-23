@@ -1,3 +1,5 @@
+[![pub package](https://img.shields.io/pub/v/logger_flutter_v2.svg)](https://pub.dev/packages/logger_flutter_v2)
+
 # Flutter extension for Logger
 
 **Logger** package is [here](https://pub.dev/packages/logger).
