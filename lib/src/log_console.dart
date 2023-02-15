@@ -177,7 +177,7 @@ class _LogConsoleState extends State<LogConsole> {
             controller: _scrollController,
             itemBuilder: (context, index) {
               var logEntry = _filteredBuffer[index];
-              return Text.rich(
+              return SelectableText.rich(
                 logEntry.span,
                 key: Key(logEntry.id.toString()),
                 style: TextStyle(fontSize: _logFontSize),
