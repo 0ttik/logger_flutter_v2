@@ -1,3 +1,7 @@
+## 1.1.0
+
+- Make text selectable in `Console` widget
+
 ## 1.0.4
 
 - Decrease flutter min sdk version constraint
